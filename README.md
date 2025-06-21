@@ -67,9 +67,7 @@ Gesture displayed if confidence > threshold.
 🛠️ How to Run
 Clone the repo:
 
-bash
-Copy
-Edit
+bash/command line
 git clone https://github.com/yourusername/sign-language-translator.git
 cd sign-language-translator
 Upload to Google Colab or run locally in Jupyter.
